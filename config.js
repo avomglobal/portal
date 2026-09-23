@@ -16,7 +16,7 @@ window.ABBS_CONFIG = {
 window.ABBS_CONFIG1 = {
   // 1) Your Google Apps Script "Web app" URL for this SIS project (it ends in /exec).
   //    Leave it empty to preview the page with an empty, demo-mode dashboard.
-  API_URL1: 'https://script.google.com/macros/s/AKfycbzwHabbntNHvqEA3dhbzMM4sTX5E5T6e2FgfOL_Kdvv9nsA-FJ6VslHiacFgeZ2ySdShw/exec',
+  API_URL1: 'https://script.google.com/macros/s/AKfycbwtgboYXuzzA-5kc3ntLW1l987Dr8nKLW1U3wOBHhDYpBhGabkhZDSFHZygXnNPO_81/exec',
 
   // 2) Where the "Attendance (Webcam)" menu item sends people.
  ATTENDANCE_URL: 'https://temioyeyipo.github.io/attendance/index.html'
