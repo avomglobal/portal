@@ -3,7 +3,7 @@
 window.ABBS_CONFIG = {
   // 1) Your Google Apps Script "Web app" URL (it ends in /exec).
   //    Leave it empty to preview the page with demo data.
-  API_URL: 'https://script.google.com/macros/s/AKfycbwtgboYXuzzA-5kc3ntLW1l987Dr8nKLW1U3wOBHhDYpBhGabkhZDSFHZygXnNPO_81/exec',
+  API_URL: 'https://script.google.com/macros/s/AKfycbwJYeLmIssQe-sQKmOEDjxRhs7zmvoHtLreHx0eWFzYhsrIkCne4WQ8yJiZwxNsqJ6v/exec',
 
   // 2) Google Drive file ID of the school logo (the same one the PDF receipt uses).
   //    It is shown in the menu. This ID is not a secret.
