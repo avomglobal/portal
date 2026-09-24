@@ -6,7 +6,7 @@ window.ABBS_CONFIG = {
   API_URL: 'https://script.google.com/macros/s/AKfycbwrkUyBS_l0zH4FTkLjTMV6EVzFYyU4MECawtx5bDKxglfT_TxGKF1jMLZ60ykCFWFQVQ/exec',
 
   // 2) Google Drive file ID of the school logo (the same one the PDF receipt uses).
-  //    It is shown in the menu. This ID is not a secret.
+  //    It is shown in the menu. This ID is not a secret.ghh
   LOGO_FILE_ID: '1SZUlEdda779wazhhYKCn9NRHq6oWzYiZ'
 };
 
